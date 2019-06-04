@@ -17,3 +17,5 @@ commit in feature
 FEATURE to make a conflict
 
 adding
+
+featureadd no cnoflict
