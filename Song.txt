@@ -12,3 +12,6 @@ This text will be in branch "Feature"
 And a bit more of text to branch (?)
 
 commit in feature
+
+
+FEATURE to make a conflict
