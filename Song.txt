@@ -14,10 +14,11 @@ And a bit more of text to branch (?)
 commit in feature
 
 
-MASTER to make a conflict
-
-
-FEATURE to make a conflict
 
 
 masteradding
+
+
+
+adding
+
